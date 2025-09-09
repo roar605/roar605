@@ -33,10 +33,9 @@ Frontend React project for video streaming.
 - Dynamic video search using YouTube API.  
 - Implemented live chat using React hooks.  
 
-### 🍔 [Food Villa](https://github.com/roar605/food-villa)
-Frontend React project inspired by Swiggy/Zomato.  
-- Food ordering interface with cart system.  
-- Managed global state using Redux.  
+### 🍔 [e-commerce](https://github.com/roar605/super-sub)
+A full-stack E-commerce web application where users can
+- browse products, add items to cart, place orders, and make secure online payments.
 
 ---
 

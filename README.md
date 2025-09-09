@@ -12,14 +12,6 @@
 - 🌱 Currently sharpening skills in **System Design** & **Advanced MERN**  
 - ⚡ Enthusiastic learner of **AI, Next.js, and DevOps**  
 
----
-
-## 🔧 Tech Stack
-**Languages:** C, C++, JavaScript  
-**Frontend:** HTML, CSS, React.js, Next.js, TailwindCSS  
-**Backend:** Node.js, Express.js, REST APIs, MongoDB, Mongoose  
-**Tools:** Git, GitHub, JWT, bcrypt  
-**Core CS Areas:** OOP, DBMS, OS, MySQL, DSA  
 
 ---
 
@@ -54,20 +46,4 @@ Frontend React project inspired by Swiggy/Zomato.
 
 ---
 
-## 🌱 Soft Skills
-⏳ Time Management • 🤝 Team Work • 🧩 Problem Solving  
-
----
-
-## ⚡ Hobbies
-📖 Reading Books • 🎨 Painting • ⚽ Playing Football  
-
----
-
-## 📫 Connect with Me
-- 📧 Email: **rohit.singh@example.com**  
-- 💼 [LinkedIn](#) (add your profile link)  
-- 💻 [GitHub](https://github.com/roar605)  
-
----
 ✨ _“Code. Create. Innovate.”_ ✨

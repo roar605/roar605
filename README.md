@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 About Me
 - 🎓 **B.Tech in CSE (Data Science)** at Heritage Institute of Technology, Kolkata (2021–2025)  
-- 🌱 Currently sharpening skills in **System Design** & **Advanced MERN**  
+- 🌱 Currently sharpening skills in **DevOps** , **System Design** & **Advanced MERN**  
 
 ---
 

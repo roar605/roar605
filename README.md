@@ -13,7 +13,6 @@
 ---
 
 Check out my portfolio here 👉 **[My Portfolio](https://my-portfolio-one-lovat-80.vercel.app/)**
-https://my-portfolio-one-lovat-80.vercel.app/
 ---
 
 ✨ _“Code. Create. Innovate.”_ ✨

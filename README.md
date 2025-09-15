@@ -2,7 +2,7 @@
 
 🚀 **Full Stack MERN Developer | Competitive Programmer | Tech Enthusiast**  
 
-💡 Passionate about building scalable full-stack applications, exploring emerging technologies, and solving challenging problems with clean code.
+💡 Passionate about building scalable full-stack applications, exploring emerging technologies, and solving challenging problems.
 
 ---
 

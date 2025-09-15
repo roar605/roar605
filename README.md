@@ -12,7 +12,8 @@
 
 ---
 
-Check out my portfolio here 👉 [My Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-pink?style=for-the-badge&logo=react)](https://my-portfolio-one-lovat-80.vercel.app/)
+Check out my portfolio here 👉 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-pink?style=for-the-badge&logo=react)](https://my-portfolio-one-lovat-80.vercel.app/
+)
 
 ---
 

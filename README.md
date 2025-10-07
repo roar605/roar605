@@ -12,7 +12,7 @@
 
 ---
 
-Check out my portfolio here 👉 **[My Portfolio](https://my-portfolio-one-lovat-80.vercel.app/)**
+Check out my portfolio here  👉 **[My Portfolio](https://my-portfolio-one-lovat-80.vercel.app/)**
 
 ---
 
